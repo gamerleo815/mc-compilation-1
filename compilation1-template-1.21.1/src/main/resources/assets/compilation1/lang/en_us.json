@@ -1,0 +1,13 @@
+{
+  "itemGroup.compilation1": "Example Mod Tab",
+  "block.compilation1.example_block": "Example Block",
+  "item.compilation1.example_item": "Example Item",
+
+  "compilation1.configuration.title": "Compilation 1 Configs",
+  "compilation1.configuration.section.compilation1.common.toml": "Compilation 1 Configs",
+  "compilation1.configuration.section.compilation1.common.toml.title": "Compilation 1 Configs",
+  "compilation1.configuration.items": "Item List",
+  "compilation1.configuration.logDirtBlock": "Log Dirt Block",
+  "compilation1.configuration.magicNumberIntroduction": "Magic Number Text",
+  "compilation1.configuration.magicNumber": "Magic Number"
+}
